@@ -9,9 +9,7 @@ Q: What is the best food ?
 ** Confit de Canard
 * Spaghettis
  
-Q: What is the best city of the world ?
 
-* Paris
-* New York
-** Toulouse
-* Venise
+
+
+ 
