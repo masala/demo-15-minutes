@@ -1,5 +1,7 @@
+Vérifier en avance le bluetooth !
 
 ---- Notes
+### text 
 
 ## questionParser 
 
